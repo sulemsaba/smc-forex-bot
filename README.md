@@ -1,3 +1,3 @@
 ## SMC bot
-Soon production will start
-considering pure price action
+## Soon production will start
+## considering pure price action
