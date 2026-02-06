@@ -1,2 +1,2 @@
 2 2 2026 -15 deriv
-6 2 2026 +25 deriv
+6 2 2026 +25 deriv balance 0
